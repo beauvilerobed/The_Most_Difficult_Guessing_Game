@@ -8,6 +8,5 @@ RULE1: If you repeat a letter that is not the correct letter(e.g. r r) then that
 RULE2: If you repeat a letter more than three times or have you two non-consecutive letters which were already used
        (e.g.  a b b b  or  a b e d c a   ) then GAME OVER.
        
-       The guessing starts when you pick a letter.
-       
-        Good luck!
+   The guessing starts when you pick a letter.
+              Good luck!
