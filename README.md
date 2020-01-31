@@ -14,5 +14,6 @@ If you repeat a letter more than three times or you have you two non-consecutive
       
 Also, there is a *hint mode* and a *non-hint mode* in case you're feeling good!
        
-   The guessing starts when you pick a letter.
-              ## Good luck!
+   The guessing starts when you pick a letter.                      
+   
+              ##Good luck!
