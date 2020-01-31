@@ -7,6 +7,8 @@ RULE1: If you repeat a letter that is not the correct letter(e.g. r r) then that
 
 RULE2: If you repeat a letter more than three times or you have you two non-consecutive letters which were already used
        (e.g.  a b b b  or  k b e d c k   ) then GAME OVER.
+      
+Also there is a hint and non-hint mode, in case your feeling good!
        
    The guessing starts when you pick a letter.
               Good luck!
