@@ -12,7 +12,7 @@ If you repeat a letter that is not the correct letter(e.g. r r) then that is an 
 If you repeat a letter more than three times or you have you two non-consecutive letters which were already used
        (e.g.  a b b b  or  k b e d c k   ) then GAME OVER.
       
-Also, there is a *hint mode* and *non-hint mode* in case you're feeling good!
+Also, there is a *hint mode* and a *non-hint mode* in case you're feeling good!
        
    The guessing starts when you pick a letter.
               ## Good luck!
