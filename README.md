@@ -10,7 +10,8 @@ If you repeat a letter that is not the correct letter (e.g. **r r**) then that i
 **RULE2**: 
 
 If you repeat a letter more than three times or you have you two non-consecutive letters which were already used 
-       (e.g.  **a b b b**  or  **k b e d c k**   ) then GAME OVER.
+
+(e.g.  **a b b b**  or  **k b e d c k**   ) then GAME OVER.
       
 Also, there is a *hint mode* and a *non-hint mode* in case you're feeling good!
        
