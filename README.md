@@ -16,4 +16,4 @@ Also, there is a *hint mode* and a *non-hint mode* in case you're feeling good!
        
    The guessing starts when you pick a letter.                      
    
-              ##Good luck!
+  ## Good luck!
