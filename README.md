@@ -1,4 +1,4 @@
-# Hang_man_with_a_twist!
+# Hang man with a twist!
 
 In this version of the classic game you will get to choose the number of attempts for each leter. That number corresponds to the number of attempts you have for **EACH** letter of a given word.
 
