@@ -1,6 +1,6 @@
-# Hang man with a twist!
+#Rules
 
-In this version of the classic game you will get to choose the number of attempts for each letter. That number corresponds to the number of attempts you have for **EACH** letter of a given word.
+You will get to choose the number of attempts; which will corresponds to the number of attempts you have for **EACH** letter of a given word.
 
 **RULE1**: 
 
