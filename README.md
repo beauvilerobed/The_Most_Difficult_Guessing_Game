@@ -1,6 +1,6 @@
-#Rules
+# Rules
 
-You will get to choose the number of attempts; which will corresponds to the number of attempts you have for **EACH** letter of a given word.
+You will get to choose the number of attempts which will corresponds to the number of attempts you have for **EACH** letter of a given word.
 
 **RULE1**: 
 
@@ -13,8 +13,8 @@ If you repeat a letter more than three times or you have two non-consecutive let
 
 (e.g.  **a b b b**  or  **k b e d c k**   ) then GAME OVER.
       
-Also, there is a *hint mode* and a *non-hint mode* in case you're feeling good!
+Also, there is a *hint mode* and a *non-hint mode* in case you're feeling confident!
        
-   The guessing starts when you pick a letter.                      
+The guessing starts when you pick a letter.                      
    
-  ## Good luck!
+## Good luck!
